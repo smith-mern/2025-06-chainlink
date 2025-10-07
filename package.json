@@ -19,7 +19,7 @@
     "test:check": "bulloak check ./**/*.tree --fix && pnpm format"
   },
   "dependencies": {
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.6.1",
     "ts-node": "^10.9.2"
   },
   "devDependencies": {
